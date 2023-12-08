@@ -1,6 +1,6 @@
 # Machine-Learning
 <h1 align="center">Hi 👋, I'm Sasmitha Dilshan</h1>
-<h3 align="center">I'm an electronics enthusiast with a strong passion for Electronics, Robotics, UAVs (drones), and cutting-edge technology. What sets me apart is my ability to quickly adapt and learn, making me a versatile contributor to projects in these fields.</h3>
+<h3 align="center">I'm an Electronics enthusiast with a strong passion for Robotics, UAVs (drones), and cutting-edge technology. What sets me apart is my ability to quickly adapt and learn, making me a versatile contributor to projects in these fields.</h3>
 
 - Here are some initial ML-based projects using fundamentals. **Tensorflow, Coursera**
 
